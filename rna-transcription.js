@@ -1,3 +1,5 @@
+//solution to rna-transcription in javascript on exercism.io
+
 var translations = [
     A: 'U',
     T: 'A',
